@@ -20,7 +20,7 @@ Then run the following commands in terminal:
 2. ``cd pancakeswap-prediction-bot``
 3. ``npm i``
 
-![enter image description here](/img/setup.jpg?raw=true)
+![enter image description here](/setup.jpg?raw=true)
 
 
 
@@ -43,7 +43,7 @@ DAILY_GOAL: 20, // Total profit you are aiming to earn (In USD)
 A lot of wallets don't provide you the private key, but just the **seed phrase** ( 12 words ). So here you will learn how to convert that to a private key:
 1. Enter [Here](https://youtu.be/eAXdLEZFbiw) and follow the instructions. Website used is [this one](https://iancoleman.io/bip39/).
 
-![Winning rate](/img/rate.jpg?raw=true)
+![Winning rate](/rate.jpg?raw=true)
 
 
 ## 🤖📈 Strategy
