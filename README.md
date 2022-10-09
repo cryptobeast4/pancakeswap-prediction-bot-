@@ -1,7 +1,7 @@
   
 # 🔮🚀 PancakeSwap Prediction Bot (improved) v2.0
 
-![PancakeSwap-Logo](/img/logo.jpg?raw=true)
+![PancakeSwap-Logo](/logo.jpg?raw=true)
 
 PancakeSwap Prediction Bot using AI recomendations.
 
